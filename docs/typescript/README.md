@@ -2,7 +2,6 @@
 
 https://github.com/wangdoc/typescript-tutorial
 
-<<<<<<< Updated upstream
 https://github.com/gibbok/typescript-book
 
 https://github.com/dzharii/awesome-typescript
@@ -10,7 +9,6 @@ https://github.com/dzharii/awesome-typescript
 https://github.com/semlinker/awesome-typescript
 
 https://github.com/type-challenges/type-challenges
-=======
 ## 基础数据类型
 
 `any > unknown > 其他具体类型 > never`
@@ -72,4 +70,3 @@ const x:5 = 4 + 1; // 报错
 // 等号左侧的类型是数值5，等号右侧4 + 1的类型，TypeScript 推测为number。由于5是number的子类型，number是5的父类型，父类型不能赋值给子类型
 ```
 
->>>>>>> Stashed changes
