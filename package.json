@@ -1,4 +1,8 @@
 {
+	"scripts": {
+		"tsc": "tsc",
+		"test": "node code/typescript/index.js"
+	},
 	"devDependencies": {
 		"typescript": "^5.7.2"
 	}
